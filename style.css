@@ -1,0 +1,30 @@
+
+.navbar a {
+    color: #8d8d8d; 
+}
+.navbar-nav {
+    margin-left: 1500px; 
+    font-size: 40px; 
+}
+
+.col-6 img {
+    transition: filter 0.3s ease;
+}
+
+.col-6 img:hover {
+    filter: brightness(70%); 
+}
+
+h1{
+    font-size: 65px;
+    margin: bottom 60px;
+}
+p{
+    font-size: 25px;
+}
+h2{
+    font-size: 45PX;
+}
+h5{
+    font-size: 30px;
+}
