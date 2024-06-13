@@ -1,0 +1,51 @@
+.navbar-brand img {
+    width: 40px;
+    height: 28px;
+}
+
+.navbar-nav {
+    margin: auto;
+    font-size: 15px;
+}
+
+
+h1 {
+    color: #dddddd;
+
+    .chocolate-classical-sans-regular {
+        font-family: "Chocolate Classical Sans", sans-serif;
+        font-weight: 400;
+        font-style: oblique;
+    }
+
+    margin-bottom: 20px;
+
+}
+
+p {
+    color: azure;
+
+    .chocolate-classical-sans-regular {
+        font-family: "Chocolate Classical Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+}
+
+h2{
+    font-size: 22PX;
+    .chocolate-classical-sans-regular {
+        font-family: "Chocolate Classical Sans", sans-serif;
+        font-weight: 400;
+        font-style: oblique;
+    }
+}
+h3{
+    color: rgb(141, 141, 141);
+    font-size: 12px;
+    font-family: "Chocolate Classical Sans", sans-serif;
+}
+
+h6{
+    font-size: 15px; 
+}
